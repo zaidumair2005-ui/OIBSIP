@@ -1,4 +1,4 @@
-# OASIS Infobyte - Retail Sales Exploratory Data Analysis
+# OASIS Infobyte: Retail Sales Exploratory Data Analysis
 
 ## Project Overview
 
