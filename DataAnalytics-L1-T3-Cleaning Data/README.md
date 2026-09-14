@@ -1,4 +1,4 @@
-# Data Cleaning — Online Retail Dataset
+# Data Cleaning: Online Retail Dataset
 
 ## Project Overview
 
