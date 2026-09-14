@@ -1,4 +1,4 @@
-# Task 4 — Unveiling the Android App Market
+# Task 4: Unveiling the Android App Market
 
 ## Project Overview
 
@@ -8,8 +8,8 @@ This project analyzes the Google Play Store app market using app metadata and us
 
 Two datasets were used:
 
-* **Google Play Store Apps** — app category, rating, reviews, size, installs, type, price, and other metadata.
-* **Google Play Store User Reviews** — user reviews and sentiment-related information.
+* **Google Play Store Apps**: app category, rating, reviews, size, installs, type, price, and other metadata.
+* **Google Play Store User Reviews**: user reviews and sentiment-related information.
 
 The datasets were loaded and analyzed separately before being combined for category-level sentiment analysis.
 
@@ -31,13 +31,13 @@ After cleaning, the Apps dataset contained **10,358 unique records**, while the 
 
 The project covers:
 
-1. **Category Analysis** — distribution of apps across categories and identification of highly saturated categories.
-2. **Ratings Analysis** — rating distribution and average ratings across categories.
-3. **Size vs. Installs** — examination of the relationship between app size and adoption.
-4. **Pricing Analysis** — comparison of free and paid apps, paid-app price distribution, and estimated minimum gross revenue by category.
-5. **Sentiment Analysis** — classification of user reviews into positive, negative, and neutral sentiment.
-6. **Sentiment by Category** — comparison of positive and negative sentiment across app categories.
-7. **Interactive Visualization** — selected analysis presented using Plotly.
+1. **Category Analysis**: distribution of apps across categories and identification of highly saturated categories.
+2. **Ratings Analysis**: rating distribution and average ratings across categories.
+3. **Size vs. Installs**: examination of the relationship between app size and adoption.
+4. **Pricing Analysis**: comparison of free and paid apps, paid-app price distribution, and estimated minimum gross revenue by category.
+5. **Sentiment Analysis**: classification of user reviews into positive, negative, and neutral sentiment.
+6. **Sentiment by Category**: comparison of positive and negative sentiment across app categories.
+7. **Interactive Visualization**: selected analysis presented using Plotly.
 
 ## Key Findings
 
